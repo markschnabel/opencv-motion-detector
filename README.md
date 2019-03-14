@@ -1,6 +1,8 @@
 # opencv-motion-detector
 A home made motion detector built with Python and OpenCV. 
 
+![MotionDetector](https://user-images.githubusercontent.com/36283037/54394894-94590480-4684-11e9-918c-3553e29f7601.jpg)
+
 ### Usage
 This program can be used to detect motion in a video. It can utilize video that is live streamed or pre-recorded.
 
